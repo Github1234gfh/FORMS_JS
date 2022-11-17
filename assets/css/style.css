@@ -1,0 +1,63 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+}
+
+.select {
+	width: 200px;
+}
+
+.view {
+	border: solid 1px black;
+	width: 200px;
+	height: 200px;
+	overflow: scroll;
+}
+
+.calc {
+	display: flex;
+	gap: 10px;
+	flex-direction: column;
+}
+
+.table {
+	gap: 10px;
+	display: flex;
+}
+
+.table__items {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+.jhgfk {
+	display: flex;
+	gap: 20px;
+}
+
+.gfkgof {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	gap: 10px;
+}
+
+.fgji {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+.jhasudfgo {
+	display: none;
+	background: green;
+	height: 100px;
+	justify-self: flex-end;
+}
